@@ -1,1 +1,5 @@
-
+gcc -g p3original.c
+ ./a.out
+enter the number
+3
+the entered number 3 is prime number
