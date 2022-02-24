@@ -17,12 +17,12 @@ int find_fibo(int n)
       t2=t3;
       t3=t1+t2;
     }
-  return t2;
+  return t1;
 }
 void output(int n,int fibo)
 {
   printf("the fibonacii series of %dth term is %d",n,fibo);
- /* int i=0;
+  /*int i=0;
   int t1=0,t2=1;
   printf("%d,%d\t",t1,t2);
   for(i=0;i<n;i++)
