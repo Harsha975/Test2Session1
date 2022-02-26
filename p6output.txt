@@ -1,1 +1,5 @@
-
+enter the string
+helloworldhello
+enter the substring
+world
+the index of the world in helloworldhello is 5

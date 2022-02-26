@@ -1,1 +1,8 @@
+ gcc -g p7original.c -lm
+ ./a.out
+enter the points of the line
+1 2
+enter the points of the line
+1 2
+the length of the line with points (1.00,2.00) and (1.00,2.00) is 0.00 
 

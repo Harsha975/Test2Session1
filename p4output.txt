@@ -1,6 +1,5 @@
-enter the number
-3
-0   1   1   2   the fibonacii series of 3th term is 2 ./a.out
+gcc -g p4original.c
+ ./a.out
 enter the number
 10
-0   1   1   2   3   5   8   13  21  34  55  the fibonacii series of 10th term is 55 
+the fibonacii series of 10th term is 55 

@@ -1,1 +1,17 @@
-
+ gcc -g p8original.c -lm
+ ./a.out
+enter the no of sides of the polygon
+3
+enter the points of the polygon
+1 2
+enter the points of the polygon
+3 4
+enter the points of the polygon
+5 6
+enter the points of the polygon
+6 7
+enter the points of the polygon
+7 8
+enter the points of the polygon
+9 8
+the perimeter of the polygon is 6.24 

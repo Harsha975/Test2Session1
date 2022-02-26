@@ -12,12 +12,11 @@ int find_fibo(int n)
   int t1=0,t2=1,t3=0;
   for(i=0;i<=n;i++)
     {
-      printf("%d\t",t3);
       t1=t2;
       t2=t3;
       t3=t1+t2;
     }
-  return t1;
+  return t2;
 }
 void output(int n,int fibo)
 {

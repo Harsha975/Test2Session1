@@ -1,1 +1,9 @@
 
+hello
+enter the size of array
+3
+2   3    ./a.out
+hello
+enter the size of array
+10
+2   3   5   7   
